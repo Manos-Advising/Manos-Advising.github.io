@@ -18,7 +18,7 @@ html, body {
     background-size: cover;
 }
 
-.btn:focus {
+button:focus {
     outline: none !important;
     box-shadow: none !important;
 }
