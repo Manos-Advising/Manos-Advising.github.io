@@ -10,8 +10,16 @@ html, body {
     background-size: cover;
 }
 
-.bg-about {
-    background: linear-gradient(#25252586, #25252586), url("../../pictures/background3.jpg");
+.bg-about-contact {
+    background-color: rgb(185, 185, 185);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-services {
+    background: linear-gradient(#25252586, #25252586), url("../../pictures/background_services.jpg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -19,5 +27,5 @@ html, body {
 }
 
 .bg-navbar{
-    background-color: rgba(226, 226, 226, 0.035) !important;
+    background-color: rgba(0, 0, 0, 0.1) !important;
 }
