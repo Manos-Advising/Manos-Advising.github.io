@@ -1,0 +1,11 @@
+html, body {
+    height: 100%;
+}
+
+.bg-home {
+    background: linear-gradient(#25252586, #25252586), url("../../pictures/background_home.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
