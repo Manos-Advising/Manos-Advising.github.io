@@ -9,3 +9,20 @@ html, body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.bg-about {
+    background: linear-gradient(#25252586, #25252586), url("../../pictures/background3.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.bg-navbar{
+    background-color: rgba(226, 226, 226, 0.035) !important;
+}
