@@ -1,3 +1,7 @@
+* {
+    font-family: 'Raleway', serif;
+}
+
 html, body {
     height: 100%;
 }
@@ -28,4 +32,10 @@ html, body {
 
 .bg-navbar{
     background-color: rgba(0, 0, 0, 0.1) !important;
+}
+
+.card-border {
+    background-color: rgba(230, 230, 230, 0.5) !important;
+    width: 72rem;
+    height: 36rem;
 }
