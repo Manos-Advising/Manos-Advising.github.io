@@ -48,10 +48,8 @@ html, body {
 }
 
 .about-text {
-    padding-left: 5rem !important;
-    padding-right: 5rem !important;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    padding-left: 10rem !important;
+    padding-right: 10rem !important;
 }
 
 .about-pic {
@@ -70,6 +68,7 @@ html, body {
 .card-bg {
     border-radius: 0 !important;
     background-color: rgba(46, 46, 46, 0.8) !important;
+    padding: 2rem;
 }
 
 .about-info {
