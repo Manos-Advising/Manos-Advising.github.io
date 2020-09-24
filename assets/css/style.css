@@ -48,8 +48,10 @@ html, body {
 }
 
 .about-text {
-    padding-left: 10rem !important;
-    padding-right: 10rem !important;
+    padding-left: 5rem !important;
+    padding-right: 5rem !important;
+    padding-top: 15rem !important;
+    padding-bottom: 15rem !important;
 }
 
 .about-pic {
